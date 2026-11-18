@@ -41,7 +41,7 @@ tradução e um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** ab
 |---|---|---|
 | Modo 3D: diálogos, cenas, moradores, conversas do grupo, livros, missões, menus, batalha, lojas, minijogos | 75.349 | 100% |
 | Modo 2D: diálogos, cenas, menus e batalha | 59.803 | 100% |
-| Imagens com texto (avisos, carimbos, placares, minijogos, dicas da batalha do 2D) | 84 | traduzidas |
+| Imagens com texto (avisos, placares, minijogos, ícone de missão; no 2D: letreiros de lugar, carimbos, PV/PM e dicas da batalha) | 110 | traduzidas |
 
 - **Tudo a partir do inglês**, conferido com o japonês, com o contexto da história e de quem está falando em cada fala.
   Quando o inglês faz piada, rima ou trocadilho, a piada foi recriada em português em vez de traduzida ao pé da letra.
@@ -50,7 +50,7 @@ tradução e um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** ab
   sotaque próprio (o italiano de Gondolia, o espanhol de Puerto Valor, as palavras nórdicas de Friolheim).
 - **Fala antiga onde o jogo é antigo:** os personagens que falam arcaico no inglês usam "tu" e "vós" em português.
 - **Interface:** PV/PM no lugar de HP/MP, artigos e gênero corretos nas mensagens de batalha e "O" de ouro no lugar do
-  "G" das moedas.
+  "G" das moedas (no modo 3D).
 
 ### Alguns exemplos
 
@@ -72,6 +72,7 @@ tradução e um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** ab
 | Créditos finais (cargos e nomes da equipe) | Ficam como no original. |
 | Nome do idioma no menu | A lista de idiomas é fixa no jogo: a tradução entra no lugar do inglês. |
 | Vozes | Ficam as vozes originais. |
+| Símbolo "G" do dinheiro no modo 2D | Vem do código do jogo, não dos arquivos de texto (no modo 3D já é o "O" de ouro). |
 
 ## 💿 O que você precisa
 
