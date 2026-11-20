@@ -72,7 +72,7 @@ tradução e um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** ab
 | Créditos finais (cargos e nomes da equipe) | Ficam como no original. |
 | Nome do idioma no menu | A lista de idiomas é fixa no jogo: a tradução entra no lugar do inglês. |
 | Vozes | Ficam as vozes originais. |
-| Símbolo "G" do dinheiro no modo 2D | Vem do código do jogo, não dos arquivos de texto (no modo 3D já é o "O" de ouro). |
+| Símbolo "G" do dinheiro no modo 2D | No modo 2D o dinheiro fica com "G", como o contador do próprio jogo (no modo 3D é o "O" de ouro). |
 
 ## 💿 O que você precisa
 
